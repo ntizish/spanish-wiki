@@ -1,6 +1,6 @@
 ---
 tags: [event, religious, cultural, christmas, catalan]
-date: December 24–25 (season: Dec 8 – Jan 6)
+date: December 24
 type: [holiday, religious, recurring]
 region: all Spain, Catalonia
 catalan_name: Nadal

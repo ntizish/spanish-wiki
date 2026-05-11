@@ -15,6 +15,7 @@ Holidays, historical moments, festivals, and recurring traditions.
 - [[events/Sant Jordi|Sant Jordi]] (April 23 — roses, books, patron saint)
 - [[events/Sant Joan|Sant Joan]] (June 23–24 — midsummer, fire, coca)
 - [[events/La Diada|La Diada Nacional de Catalunya]] (September 11)
+- [[events/Mercé|La Mercè]] (September 24 — Barcelona's main festival; Correfoc, castellers, giants)
 
 ## Historical Events
 
